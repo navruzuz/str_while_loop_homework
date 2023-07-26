@@ -6,4 +6,6 @@ def main(s):
     Returns:
         int: return answer
     """
-    return
+    s='Python2023'
+    return s.capitalize()==s
+print(main('Python2023'))
